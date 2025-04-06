@@ -17,7 +17,7 @@ MonoBehaviour:
     Key: Animations
     Ordinal: 0
     Priority: 0
-    IconType: 2010
+    IconType: 2510
     SmallIcon: {fileID: 0}
     LargeIcon: {fileID: 0}
     IsIconRecursive: 0
@@ -113,7 +113,7 @@ MonoBehaviour:
     Key: Materials
     Ordinal: 8
     Priority: 0
-    IconType: 2070
+    IconType: 2570
     SmallIcon: {fileID: 0}
     LargeIcon: {fileID: 0}
     IsIconRecursive: 0
@@ -125,7 +125,7 @@ MonoBehaviour:
     Key: Meshes
     Ordinal: 9
     Priority: 0
-    IconType: 2080
+    IconType: 2580
     SmallIcon: {fileID: 0}
     LargeIcon: {fileID: 0}
     IsIconRecursive: 0
@@ -233,7 +233,7 @@ MonoBehaviour:
     Key: Textures
     Ordinal: 18
     Priority: 0
-    IconType: 2190
+    IconType: 2690
     SmallIcon: {fileID: 0}
     LargeIcon: {fileID: 0}
     IsIconRecursive: 0
